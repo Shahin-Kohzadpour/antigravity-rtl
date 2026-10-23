@@ -11,7 +11,7 @@ Smart, update-resilient Auto-Bidi RTL layout support for Google Antigravity 2.0.
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/antigravity-rtl@main/assets/preview.png" alt="Antigravity RTL Preview" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/antigravity-rtl@main/assets/preview.png?v=2" alt="Antigravity RTL Preview" width="100%">
 </p>
 
 ## Why Antigravity RTL?
