@@ -2,11 +2,17 @@
 
 دعم ذكي وتلقائي للكتابة من اليمين إلى اليسار (العربية، الفارسية، الأردية، الكردية، البشتو) لتطبيق Google Antigravity 2.0.
 
-[English](README.md) | [فارسی](README.fa.md) | [العربية](README.ar.md)
+<p align="center" dir="ltr">
+  <a href="README.md"><b>English</b></a> &nbsp;|&nbsp;
+  <a href="README.fa.md"><b>فارسی</b></a> &nbsp;|&nbsp;
+  <a href="README.ar.md"><b>العربية</b></a>
+</p>
 
 ---
 
-![معاينة Antigravity RTL](assets/preview.png)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/antigravity-rtl@main/assets/preview.png" alt="معاينة Antigravity RTL" width="100%">
+</p>
 
 ## لماذا Antigravity RTL؟
 
