@@ -1,0 +1,6 @@
+{
+  "name": "antigravity-rtl",
+  "displayName": "Antigravity Smart Auto-Bidi RTL Support",
+  "version": "1.5.0",
+  "description": "Smart Auto-Bidi layout support for Arabic, Persian, Urdu, and Kurdish scripts with strict code isolation and update resilience."
+}

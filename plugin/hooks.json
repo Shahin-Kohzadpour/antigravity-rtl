@@ -1,0 +1,11 @@
+{
+  "rtl-auto-updater": {
+    "SessionStart": [
+      {
+        "type": "command",
+        "command": "node \"C:\\Users\\SHAN\\.gemini\\antigravity\\rtl-support\\patch-asar.mjs\" apply",
+        "timeout": 15
+      }
+    ]
+  }
+}

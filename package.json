@@ -1,0 +1,29 @@
+{
+  "name": "antigravity-rtl",
+  "version": "1.5.0",
+  "description": "Smart Auto-Bidi RTL (Arabic, Persian, Urdu) support for Google Antigravity 2.0 desktop app.",
+  "type": "module",
+  "main": "src/patch-asar.mjs",
+  "scripts": {
+    "apply": "node src/patch-asar.mjs apply",
+    "revert": "node src/patch-asar.mjs revert",
+    "status": "node src/patch-asar.mjs status"
+  },
+  "keywords": [
+    "antigravity",
+    "rtl",
+    "arabic",
+    "persian",
+    "farsi",
+    "urdu",
+    "kurdish",
+    "pashto",
+    "bidi",
+    "electron"
+  ],
+  "author": "Antigravity RTL Community",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
