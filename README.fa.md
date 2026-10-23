@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/antigravity-rtl@main/assets/preview.png?v=3" alt="پیش‌نمایش Antigravity RTL" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/antigravity-rtl@0fe8a24/assets/preview.png" alt="پیش‌نمایش Antigravity RTL" width="100%">
 </p>
 
 ## چرا Antigravity RTL؟
