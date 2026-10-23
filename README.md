@@ -20,18 +20,6 @@ By default, Antigravity 2.0 enforces left-to-right (`LTR`) directionality across
 
 **Antigravity RTL** adds seamless bidirectional intelligence without changing application fonts, modifying UI chrome, or breaking auto-updates.
 
-```
-+-------------------------------------------------------------+
-| Default (Broken LTR)                                        |
-|   رو باز کن Docker                                           |
-|   README هنوز پروژه رو در مرحله برنامه‌ریزی معرفی می‌کنه...   |
-+-------------------------------------------------------------+
-| With Antigravity RTL (v1.5.0)                               |
-|                                           Docker رو باز کن  |
-|   ...هنوز پروژه رو در مرحله برنامه‌ریزی معرفی می‌کنه README  |
-+-------------------------------------------------------------+
-```
-
 ---
 
 ## Key Features
