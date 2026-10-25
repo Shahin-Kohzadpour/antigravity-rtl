@@ -48,7 +48,7 @@ By default, Antigravity 2.0 enforces left-to-right (`LTR`) directionality across
 Clone the repository and run the installer:
 
 ```cmd
-git clone https://github.com/YOUR_USERNAME/antigravity-rtl.git
+git clone https://github.com/Shahin-Kohzadpour/antigravity-rtl.git
 cd antigravity-rtl
 bin\install.cmd
 ```

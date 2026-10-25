@@ -48,7 +48,7 @@
 استنسخ المستودع وشغّل ملف التثبيت:
 
 ```cmd
-git clone https://github.com/YOUR_USERNAME/antigravity-rtl.git
+git clone https://github.com/Shahin-Kohzadpour/antigravity-rtl.git
 cd antigravity-rtl
 bin\install.cmd
 ```
